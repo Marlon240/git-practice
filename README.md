@@ -1,2 +1,1 @@
-# git-practice
-Esto es prueba
+# Esto solo es prueba de git
